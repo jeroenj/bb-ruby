@@ -87,7 +87,7 @@ The following is the list of BBCode tags processed by BBRuby and their associate
 * [img=]            :image
 * [img]             :image
 * [youtube]         :video
-* [youtube]         :video
+* [gvideo]          :video
 * [vimeo]           :video
 * [email]           :email
 

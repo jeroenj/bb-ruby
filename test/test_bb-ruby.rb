@@ -181,7 +181,7 @@ class TestBBRuby < Test::Unit::TestCase
   end
 
   def test_self_tag_list
-    assert_equal 31, BBRuby.tag_list.size
+    assert_equal 32, BBRuby.tag_list.size
   end
   
   def test_redefinition_of_tag_html
